@@ -1,0 +1,5 @@
+> [AZURE.IMPORTANT] Obsługa zarządzania zasobami HDInsight za pomocą Menedżera usługi Azure (ASM) za pomocą programu PowerShell Azure i polecenie Azure jest __przestarzałe__, a 1 stycznia 2017 zostanie usunięte. Kroki opisane w tym dokumencie za pomocą nowego Azure poleceń cmdlet i poleceń Azure interfejsu wiersza polecenia, które współpracują z Menedżera zasobów Azure (ARM).
+>
+> Wykonaj czynności podane w [Instalowanie i konfigurowanie polecenie Azure](../articles/xplat-cli-install.md) i [Instalowanie i konfigurowanie programu PowerShell Azure](../articles/powershell-install-configure.md) Aby zainstalować najnowszą wersję programu Azure PowerShell oraz polecenie Azure. Jeśli masz istniejące skryptów, które muszą zostać zmodyfikowane użyć poleceń nowego interfejsu wiersza polecenia nowe polecenia cmdlet, zobacz [Migrowanie narzędzia programowania opartego na Menedżera zasobów Azure HDInsight klastrów](../articles/hdinsight/hdinsight-hadoop-development-using-azure-resource-manager.md) Aby uzyskać więcej informacji.
+
+

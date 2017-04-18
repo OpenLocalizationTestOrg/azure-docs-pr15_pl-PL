@@ -1,0 +1,1 @@
+Zaglądanie VNet jest mechanizm do łączenia dwóch wirtualnych sieci, w tym samym regionie za pośrednictwem sieci szkieletowego Azure. Po peered, dwa wirtualnych sieci pojawia się jako pojedynczy wirtualną sieć dla wszystkich celów łączności. Przeczytaj [Omówienie zaglądanie VNet](../articles/virtual-network/virtual-network-peering-overview.md) , jeśli nie znasz z zaglądanie VNet.

@@ -1,0 +1,1 @@
+Użytkownik może również łączenie VNets bez użycia bramy sieci VPN. Usługi VNets znajdują się w tym samym regionie, warto rozważyć połączyć je za pomocą VNet zaglądanie. Aby uzyskać więcej informacji zobacz artykuł [zaglądanie VNet](../articles/virtual-network/virtual-network-peering-overview.md) .

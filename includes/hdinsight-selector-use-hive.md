@@ -1,0 +1,11 @@
+> [AZURE.SELECTOR]
+- [Omówienie](../articles/hdinsight/hdinsight-use-hive.md)
+- [Widok gałęzi](../articles/hdinsight/hdinsight-hadoop-use-hive-ambari-view.md)
+- [SSH](../articles/hdinsight/hdinsight-hadoop-use-hive-ssh.md)
+- [Beeline](../articles/hdinsight/hdinsight-hadoop-use-hive-beeline.md)
+- [Zwinięcie](../articles/hdinsight/hdinsight-hadoop-use-hive-curl.md)
+- [Programu PowerShell](../articles/hdinsight/hdinsight-hadoop-use-hive-powershell.md)
+- [.NET](../articles/hdinsight/hdinsight-hadoop-use-hive-dotnet-sdk.md)
+- [Programu Visual Studio](../articles/hdinsight/hdinsight-hadoop-use-hive-visual-studio.md)
+- [Pulpit zdalny](../articles/hdinsight/hdinsight-hadoop-use-hive-remote-desktop.md)
+- [Konsola kwerendy](../articles/hdinsight/hdinsight-hadoop-use-hive-query-console.md)

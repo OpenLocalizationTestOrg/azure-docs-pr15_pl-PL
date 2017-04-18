@@ -1,0 +1,7 @@
+- **PolicyBased:** PolicyBased sieci VPN były wcześniej nazywane statycznego routingu bram w modelu Klasyczny wdrożenia. Na podstawie zasad sieci VPN szyfrowanie i bezpośredniego pakiety przez tunele IPsec oparte na lokalny skonfigurowano kombinacji prefiksów adresów między sieci lokalnej i Azure VNet. Zasady (lub selektor ruch) jest zazwyczaj definiowana jako listy dostępu w konfiguracji urządzenia VPN. Wartość w polu Typ PolicyBased VPN jest *PolicyBased*. Podczas korzystania z sieci VPN PolicyBased pamiętać następujące ograniczenia:
+
+    - Mogą VPN PolicyBased **tylko** można używać na bramie podstawowa jednostka SKU. Ten typ VPN nie jest zgodny z innych wersji produktu bramy.
+    - Możesz mieć tylko 1 tunelem podczas korzystania z sieci VPN PolicyBased.
+    - Sieci VPN PolicyBased można używać tylko dla połączeń S2S i tylko dla określonych konfiguracji. Większość konfiguracji bramy VPN wymagają RouteBased VPN.
+
+- **RouteBased**: RouteBased sieci VPN były wcześniej nazywane dynamicznego routingu bram w modelu Klasyczny wdrożenia. Sieci VPN RouteBased za pomocą "trasy" w IP przekazywania lub tabeli routingu pakietów bezpośrednio do ich odpowiednie interfejsy tunelem. Następnie interfejsów tunelem szyfrowanie lub odszyfrowywanie pakietów i tunele. Zasady (lub selektor ruchu) RouteBased sieci VPN są skonfigurowane jako dowolna z każdym (lub symbole wieloznaczne). Wartość w polu Typ RouteBased VPN jest *RouteBased*.

@@ -1,0 +1,5 @@
+Należy pamiętać, że Azure obecnie współpracuje z dwóch modeli wdrażania: Menedżer zasobów i klasyczny. Przed rozpoczęciem konfiguracji upewnij się, że korzystasz z instrukcji dla modelu wdrożenia, który chcesz pracować. Dwa modele nie są całkowicie zgodne ze sobą.
+
+Na przykład jeśli pracujesz z wirtualną sieć, który został utworzony przy użyciu modelu Klasyczny wdrożenia i chcesz dodać do VNet połączenie, użyj metody wdrażania, które odpowiadają modelu Klasyczny wdrożenia, nie Menedżera zasobów. Jeśli pracujesz z wirtualnej sieci został utworzony przy użyciu modelu wdrożenia Menedżera zasobów, czy użyj metody wdrażania, które odpowiadają przy użyciu Menedżera zasobów, nie klasyczny.
+
+Uzyskać informacje dotyczące modeli wdrażania zobacz [wdrożenia opis Menedżera zasobów i wdrażania klasyczny](../articles/resource-manager-deployment-model.md).
