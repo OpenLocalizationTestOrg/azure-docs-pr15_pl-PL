@@ -1,0 +1,1 @@
+> [AZURE.IMPORTANT] Ta funkcja jest dostępna z produktami **CDN Azure z Verizon** (Standard i Premium). Nie są obsługiwane na **CDN Azure z Akamai**.  Porównanie funkcji CDN zobacz [Omówienie CDN Azure](cdn-overview.md#azure-cdn-features). 

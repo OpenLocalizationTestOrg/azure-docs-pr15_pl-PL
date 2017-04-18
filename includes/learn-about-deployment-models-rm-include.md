@@ -1,0 +1,1 @@
+> [AZURE.NOTE] Azure występują dwa modele rozmieszczania służące do tworzenia i pracy z zasobami: [Menedżer zasobów i klasyczny](../articles/resource-manager-deployment-model.md).  W tym artykule opisano, jak przy użyciu modelu wdrożenia Menedżera zasobów, który dla większości wdrożeń nowych zamiast innych firm

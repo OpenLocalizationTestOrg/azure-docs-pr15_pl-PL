@@ -1,0 +1,1 @@
+> [AZURE.IMPORTANT] Jest funkcją **Premium CDN Azure z Verizon**, a nie jest dostępna z produktami **Azure CDN standardowy** .  Porównanie funkcji CDN zobacz [Omówienie CDN Azure](cdn-overview.md#azure-cdn-features). 

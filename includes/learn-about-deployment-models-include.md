@@ -1,0 +1,1 @@
+> [AZURE.IMPORTANT] Przed rozpoczęciem pracy z zasobami Azure, zapoznaj się z modelami wdrażania: [Menedżer zasobów i klasyczny](../articles/resource-manager-deployment-model.md).

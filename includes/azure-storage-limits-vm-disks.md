@@ -1,0 +1,7 @@
+Azure maszyn wirtualnych obsługuje dołączanie liczbę dyski danych. Umożliwiające uzyskanie optymalnej wydajności można ograniczyć liczbę wysoce wykorzystywane dyski dołączone maszyn wirtualnych, aby uniknąć możliwych ograniczania. Jeśli wszystkie dyski nie są jest wysoce włączona w tym samym czasie, konto miejsca do magazynowania mogą obsługiwać większych dysków liczb.
+
+- **w przypadku kont standardowego magazynu:** Konto standardowego magazynu ma wezwanie na maksymalna liczba całkowita liczba 20 000 operacji i/o na SEKUNDĘ. Suma operacji i/o na SEKUNDĘ we wszystkich dysków maszyn wirtualnych z konta standardowego magazynu nie powinna przekroczyć limitu.
+
+    Około można obliczyć liczbę wysoce wykorzystywane dysków obsługiwanych przez konto miejsca do magazynowania jeden standard na limit szybkości wezwanie na podstawie. Na przykład, dla podstawowych Głosowa warstwy, maksymalną liczbę dysków wysoce wykorzystywane jest o 66 (20 000-300 operacji i/o na SEKUNDĘ na dysku), a dla standardowego maszyny warstwy, jest około 40 (20 000-500 operacji i/o na SEKUNDĘ na dysku), jak pokazano w poniższej tabeli. 
+ 
+- **w przypadku kont miejsca do magazynowania premium:** Konto miejsca do magazynowania premium ma maksymalna liczba całkowita przepustowość 50 GB. Ogólnej przepustowości we wszystkich dysków maszyn wirtualnych należy nie przekracza ten limit.

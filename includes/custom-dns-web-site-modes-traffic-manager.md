@@ -1,0 +1,3 @@
+Ustawienie niestandardowej nazwy domeny w aplikacji sieci web w usłudze Azure aplikacji jest przez Menedżera ruchu równoważenia obciążenia jest dostępna tylko dla **standardowego** trybu witryn sieci Web. Przed przełączeniem aplikacji sieci web w trybie planu bezpłatnej usługi aplikacji do trybu udostępnione, Basic lub Standard, musisz najpierw usunąć wydatków naciśnij klawisze Caps Lock w miejscu dla subskrypcji usługi aplikacji. 
+
+Aby uzyskać więcej informacji o trybach plan aplikacji usługi w tym jak zmienić tryb witryny, zobacz [jak przeskalować witryn sieci web](../articles/app-service-web/web-sites-scale.md).

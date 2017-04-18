@@ -1,0 +1,3 @@
+Funkcje Azure jest sterowane zdarzeniami, obliczeń na żądanie, dzięki czemu rozszerza istniejące platformy Azure aplikacji z funkcjami do wykonania kodu wyzwalane przez zdarzenia występujące w innych usług Azure, produkty władz akredytacji bezpieczeństwa i systemy lokalnego. Za pomocą funkcji Azure aplikacji skalowanie na podstawie żądanie i płacisz tylko dla zasobów, których można używać. Funkcje Azure zawiera intuicyjny, oparte na przeglądarce interfejs użytkownika pozwala na tworzenie według harmonogramu lub wyzwalane fragmenty kodu zaimplementowana w różnych językach programowania. 
+
+Ten wprowadzenie wideo pokazano, jak utworzyć aplikację funkcji, zmodyfikuj kod, a także jak wchodzić w interakcję z wyzwalaczami i powiązań.

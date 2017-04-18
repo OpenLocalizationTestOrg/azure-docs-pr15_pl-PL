@@ -1,0 +1,5 @@
+Ten artykuł dotyczy usługi Azure aplikacji usługi (aplikacji Web Apps, aplikacje interfejsu API, aplikacji Mobile, aplikacje logiczny); dla usług w chmurze zobacz [Konfigurowanie niestandardowej nazwy domeny dla usługi Azure chmury](../articles/cloud-services/cloud-services-custom-domain-name.md).
+
+> [AZURE.NOTE]  W przypadku aplikacji możesz równoważenia obciążenia przez [Menedżera ruch Azure](https://azure.microsoft.com/services/traffic-manager/), kliknij selektor w górnej części tego artykułu, aby uzyskać określone czynności.
+>
+> **Domeny niestandardowe, które nazwy są wyłączone bezpłatnie warstwy**. Musisz najpierw [skali do wyższego poziomu cen](../articles/app-service-web/web-sites-scale.md), co może ulec zmianie, ile konta dla subskrypcji. Aby uzyskać więcej informacji, zobacz [Cennik usługi aplikacji](https://azure.microsoft.com/pricing/details/app-service/) .
