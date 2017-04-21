@@ -1,0 +1,2 @@
+> [AZURE.NOTE]
+> Plik .publishsettings zawiera poświadczenia (niezakodowany) używane do administrowania Azure subskrypcje i usług. Ze względów bezpieczeństwa dla tego pliku jest zapisać go tymczasowo spoza Twojej katalogi źródłowe (na przykład w folderze Libraries\Documents), a następnie usuń je po zakończeniu importowania. Złośliwy użytkownik uzyskuje dostęp do pliku .publishsettings można edytować, tworzenie i usuwanie usługi Azure.

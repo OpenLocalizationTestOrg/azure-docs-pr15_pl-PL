@@ -1,0 +1,3 @@
+### <a name="azure-resource-manager-and-azure-service-management"></a>Azure Menedżer zasobów i zarządzanie usługą Azure
+ 
+Ten artykuł dotyczy utworzonego w Menedżerze zasobów, które firma Microsoft zaleca przez zasób utworzony zarządzania usługą Azure zasobu. Opis zalet korzystania z Menedżera zasobów zobacz [obliczyć Azure, sieci i dostawców miejsca do magazynowania w obszarze Menedżer zasobów Azure](../articles/virtual-machines/virtual-machines-windows-compare-deployment-models.md). Aby wykonać to samo zadanie dla zasobu utworzone za pomocą zarządzania usługą Azure, zobacz następujący artykuł:

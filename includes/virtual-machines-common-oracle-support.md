@@ -1,0 +1,1 @@
+> [AZURE.IMPORTANT]  Ta zawartość jest przestarzałe i nie są już obsługiwane.  Podsumowanie pomocy technicznej programu Oracle Azure, zobacz [to opublikowany poufności informacji pomocy technicznej.](http://www.oracle.com/technetwork/topics/cloud/faq-1963009.html#support)

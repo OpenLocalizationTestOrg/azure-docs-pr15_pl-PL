@@ -1,0 +1,7 @@
+Copyright (c) Microsoft Corporation.  Rozdzielane w następujących warunkach:
+ 
+1. Firma Microsoft i wszelkie współautorów do tego projektu każdego udziela licencji, w obszarze jej odpowiednich praw autorskich, dokumentacji Microsoft Azure obszarze [Creative Commons przyznawania 3.0 Stanów Zjednoczonych licencji](http://creativecommons.org/licenses/by/3.0/us/legalcode).  Ponadto w odniesieniu do dowolnego przykładowy kod zawartych w dokumentacji Microsoft i takie współautorzy udziela dodatkowych licencji, w obszarze praw własności intelektualnej odpowiednich, aby użyć kodu lub projektowanie oprogramowanie dla Microsoft Azure.
+ 
+2.  Microsoft, Windows, Microsoft Azure i/lub innych produktów firmy Microsoft i opisane w dokumentacji usług może być znaki towarowe lub zastrzeżonymi znakami firmy Microsoft w Stanach Zjednoczonych i/lub innych krajach. Ta licencja nie udzielać praw do za pomocą dowolnej nazwy, logo lub znaki towarowe. Aby uzyskać wskazówki ogólne znakiem towarowym firmy Microsoft przejdź do [http://go.microsoft.com/fwlink/?LinkID=254653](http://go.microsoft.com/fwlink/?LinkID=254653).
+ 
+3.  Firma Microsoft i wszelkie rezerwy współautorzy wszystkie pozostałe prawa, czy w obszarze prawa autorskie, patenty lub znaki towarowe lub za tym idzie, estoppel lub w inny sposób.
